@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creation7654321&label=Profile%20views&color=0e75b6&style=flat" alt="creation7654321" /> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **React **
 
 - 📫 How to reach me **creation.pradhan@gmail.com**
 
